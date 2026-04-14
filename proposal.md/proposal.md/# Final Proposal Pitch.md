@@ -1,4 +1,4 @@
-# Final Proposal Pitch
+# Final Proposal Pitch: Short Visual Novel
 
 ## Repository
 [ChanthaiNurin_Final_Project_Pitch_Proposal]
@@ -6,7 +6,7 @@
 
 ## Description
 1-2 sentence description of what it will do and how it relevant to media and digital arts.
-- I will be creating a short visual novel that will consist of characters from the Tokusatsu show "Tokusou Sentai Dekaranger" by utilizing Python, specifically the Ren'Py Visual Novel Engine. 
+- I will be creating a short visual novel that will consist of character(s) from the Tokusatsu show "Tokusou Sentai Dekaranger" by utilizing Python, specifically the Ren'Py Visual Novel Engine. 
 The player will be able to choose options when communicating to a character, and encapsulates how scripting and digital art can coexist to make an entertaining, memorable product. 
 
 ## Features
