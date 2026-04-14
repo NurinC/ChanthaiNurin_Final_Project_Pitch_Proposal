@@ -24,10 +24,10 @@ The player will be able to choose options when communicating to a character, and
 
 ## Outcomes
 Ideal Outcome:
-- Briefly describe what is the ideal outcome?
+- A polish short visual novel with multiple choices, may be about 2-3 branching paths and appealing character sprites. A simple introduction will suffice!
 
 Minimal Viable Outcome:
-- Briefly describe the bare essential for a good working outcome?
+- Functional visual novel with one linear story path and basic dialogue, at least one meaningful player choice.
 
 ## Milestones
 
