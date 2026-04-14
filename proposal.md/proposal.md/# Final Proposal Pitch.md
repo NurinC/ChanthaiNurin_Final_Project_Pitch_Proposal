@@ -14,8 +14,8 @@ The player will be able to choose options when communicating to a character, and
 	- Creating sprites of characters, they will be drawn and then implemented into the display screen.
 - Feature 2: Branching Dialogue Choices
 	- User input where users will type or click their response that will affect the response given, leading to different responses or story paths. This will use Ren'Py's menu and label system!
-- Feature N 
-	- Text and response
+- Feature 3: Basic Story Progression System
+	- Story progress through scripted scenes from the dialogues, transitions to track choices. 
 
 ## Challenges
 - Short sentence of any skill or topic that needs to be learnt or researched.
