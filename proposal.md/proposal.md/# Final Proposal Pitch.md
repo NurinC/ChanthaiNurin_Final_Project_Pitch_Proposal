@@ -32,13 +32,13 @@ Minimal Viable Outcome:
 ## Milestones
 
 - Week 1
-  1. Goal 1
-  2. Goal 2
+  1. Install and fully set up Ren'Py so that it properly runs.
+  2. Write the story outline and brainstorming simple ideas such as the introduction, choices and maybe endings, and draw basic character sprites.
 
 - Week 2
-  1. Goal 1
-  2. Goal 2
+  1. Begin scripting the main story through Ren'Py. Specifically the dialogue and labels.
+  2. Using Ren'Py's menu system to create dialogue and branching.  
 
 - Week N (Final)
-  1. Goal 1
-  2. Goal 2
+  1. Add branching paths and outcomes, testing bugs while playtesting. 
+  2. Polish the visuals with refined sprites, transitions and text pacing.
