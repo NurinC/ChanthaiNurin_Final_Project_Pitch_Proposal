@@ -18,9 +18,9 @@ The player will be able to choose options when communicating to a character, and
 	- Story progress through scripted scenes from the dialogues, transitions to track choices. 
 
 ## Challenges
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
-- Short sentence of any skill or topic that needs to be learnt or researched.
+- Learning Ren'Py library, specifically it's syntax from it's labels, menus and variables.
+- Creating and properly formatting sprites and images within the engine.
+-Managing branches and story logic without major bugs or flow of the game.
 
 ## Outcomes
 Ideal Outcome:
